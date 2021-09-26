@@ -1,0 +1,92 @@
+[
+  {
+    "key": "01",
+    "category": "Doctor",
+    "name": "Srikanth Bosh",
+    "designation": "Neurologists",
+    "salary": 100000,
+    "img": "https://media.istockphoto.com/photos/indian-doctor-picture-id179011088?s=170667a",
+    "age": 60,
+    "experience": 20
+  },
+  {
+    "key": "02",
+    "category": "Doctor",
+    "name": "Dipok Nayer",
+    "designation": "Radiologists",
+    "salary": 90000,
+    "img": "https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg",
+    "age": 48,
+    "experience": 16
+  },
+  {
+    "key": "03",
+    "category": "Doctor",
+    "name": "Robi Ghosh",
+    "designation": "Radiologists",
+    "salary": 85000,
+    "img": "https://img.freepik.com/free-photo/portrait-smiling-handsome-male-doctor-man_171337-5055.jpg?size=626&ext=jpg",
+    "age": 30,
+    "experience": 5
+  },
+  {
+    "key": "04",
+    "category": "Doctor",
+    "name": "Meal Maskatier",
+    "designation": "Radiologists",
+    "salary": 98000,
+    "img": "https://thumbs.dreamstime.com/b/outdoor-portrait-male-doctor-wearing-white-lab-coat-smiling-to-camera-35801901.jpg",
+    "age": 55,
+    "experience": 15
+  },
+  {
+    "key": "05",
+    "category": "Doctor",
+    "name": "Jhon Sakrena",
+    "designation": "Emergency physician",
+    "salary": 80000,
+    "img": "https://yt3.ggpht.com/ytc/AKedOLQ-TfQ3t1-kxvAZ1P7eg7eS78fYMHfgiuFwbbph=s900-c-k-c0x00ffffff-no-rj",
+    "age": 36,
+    "experience": 9
+  },
+  {
+    "key": "06",
+    "category": "Doctor",
+    "name": "Bassy Doglas",
+    "designation": "Obstetricians",
+    "salary": 77000,
+    "img": "https://image.shutterstock.com/image-photo/doctor-medical-mask-white-coat-260nw-1937093308.jpg",
+    "age": 36,
+    "experience": 6
+  },
+  {
+    "key": "07",
+    "category": "Doctor",
+    "name": "Fk Jacob",
+    "designation": "Neurologists",
+    "salary": 80000,
+    "img": "https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+    "age": 55,
+    "experience": 18
+  },
+  {
+    "key": "08",
+    "category": "Doctor",
+    "name": "Arun Kumar",
+    "designation": "Radiologists",
+    "salary": 77000,
+    "img": "https://i.pinimg.com/originals/14/cb/53/14cb53b8325764d8d387005ff8e4150c.jpg",
+    "age": 48,
+    "experience": 11
+  },
+  {
+    "key": "09",
+    "category": "Doctor",
+    "name": "Ally Watson",
+    "designation": "Radiologists",
+    "salary": 96000,
+    "img": "https://st3.depositphotos.com/10654668/13844/i/600/depositphotos_138445604-stock-photo-male-doctor-in-hospital.jpg",
+    "age": 52,
+    "experience": 14
+  }
+]
