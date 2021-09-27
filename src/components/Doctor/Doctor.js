@@ -3,7 +3,7 @@ import './Doctor.css';
 
 
 const Doctor = (props) => {
-  //Destructuring
+  //Destructuring start
   const { name, img, category, designation, salary, age } = props.doctor || {}
 
   return (
